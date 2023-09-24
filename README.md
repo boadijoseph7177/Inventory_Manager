@@ -17,7 +17,7 @@
 To run Inventory Manager, follow these steps:
 
 1. Clone the repository to your local machine:
-git clone 
+git clone https://github.com/boadijoseph7177/Inventory_Manager
 
 
 2. Install the required Python libraries using pip:
